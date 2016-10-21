@@ -1,6 +1,6 @@
 # mok-js_demo161020
 
-mokjs介绍：http://mokjs.sinaapp.com/start.html  
+mokjs介绍：http://mokjs.sinaapp.com/  
 
 
 1、在你的工作目录，通过npm命令安装：npm install mok-js；  
